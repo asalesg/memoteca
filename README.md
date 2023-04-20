@@ -1,3 +1,8 @@
+#Rodar o backend
+entre na pasta ..\memoteca\backend 
+e rode o comando npm start para simular a API.
+após isso é só rodar o projeto com ng serve e sentir felicidade
+
 # Memoteca
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
